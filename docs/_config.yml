@@ -123,7 +123,7 @@ defaults:
       path: ""
       type: unit01
     values:
-      category: "01 Data"
+      category: "01 Prerequisites"
       tags: "Unit 01"
       layout: single
       sidebar:

@@ -1,5 +1,5 @@
 ---
-title: Basic installation
+title: Docker
 toc: true
 header:
   image: '/assets/images/teaser/Kilikarte_CC_Tanzania_72dpi-1800x1386_7-1.jpg'
