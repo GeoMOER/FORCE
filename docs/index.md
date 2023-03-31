@@ -1,5 +1,5 @@
 ---
-title: FORCE: Framework for Operational Radiometric Correction for Environmental monitoring
+title: FORCE Framework for Operational Radiometric Correction for Environmental monitoring
 layout: splash
 date: '2023-03-31 13:00:00 +0100'
 header:

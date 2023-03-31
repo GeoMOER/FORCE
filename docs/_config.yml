@@ -27,7 +27,7 @@ baseurl: "/FORCE"
 
 
 ##### Title ###################################################################
-title: FORCE: Framework for Operational Radiometric Correction for Environmental monitoring
+title: FORCE Framework for Operational Radiometric Correction for Environmental monitoring
 name: &name "Lab of Environmental Informatics" # &name is a YAML anchor which can be *referenced later
 email: zeussd@uni-marburg.de
 description: >- # this means to ignore newlines until next item
