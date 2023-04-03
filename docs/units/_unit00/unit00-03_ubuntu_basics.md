@@ -14,4 +14,7 @@ Ubuntu is an operating system, built on Desbian's architecture and infrastructur
 
 FORCE was developed using Ubuntu and thus all the code needed to run FORCE should be run using Ubuntu.
 
+## Setting up a virtual machine
+<mark>TO DO </mark>
+
 

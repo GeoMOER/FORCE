@@ -123,7 +123,7 @@ defaults:
       path: ""
       type: unit01
     values:
-      category: "01 Prerequisites"
+      category: "01 Workflow"
       tags: "Unit 01"
       layout: single
       sidebar:
@@ -133,7 +133,7 @@ defaults:
       path: ""
       type: unit02
     values:
-      category: "02 Workflow"
+      category: "02 Prerequisites"
       tags: "Unit 02"
       layout: single
       sidebar:
