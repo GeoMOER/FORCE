@@ -1,5 +1,5 @@
 ---
-title: Basic installation
+title: Introduction to FORCE
 toc: true
 header:
   image: '/assets/images/teaser/allbands.png'
