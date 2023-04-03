@@ -5,8 +5,8 @@ date: '2023-03-31 13:00:00 +0100'
 header:
   overlay_color: "#000"
   overlay_filter: 0.6
-  overlay_image: "/assets/images/title/land_use_map_Kili.png"
-  caption: 'Image: [Andreas Hemp (2006)](https://doi.org/10.1111/j.1365-2028.2006.00679.x)'
+  overlay_image: "/assets/images/title/allbands.png"
+  caption: 'Image: Netra Bhandari'
   cta_label: Go to course units
   cta_url: "/units.html"
 excerpt: Downloading, processing and coregistration of Sentinel-2 data
