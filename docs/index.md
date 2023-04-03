@@ -37,11 +37,7 @@ At the end of this course you should be able to
 
 # Setting
 
-This course is in supplement to Upscaling Biodiversity and GeoAI course (**F 14 | 00A19**).
-#Details on this synchronous hybrid classroom format will be provided in the first session, which will take place **in presence only on Wednesday 12.04.2023 at 10:15 am**.
-#The link to the digital classroom of the first session is provided in the [Ilias course environment](https://ilias.uni-marburg.de/goto.php?target=crs_2785662&client_id=UNIMR){:target="_blank"}
-# (only accessible for members of the course who are logged-in into Ilias). 
-Please also seriously check and follow the [Information on the Coronavirus](https://www.uni-marburg.de/de/universitaet/administration/sicherheit/coronavirus){:target="_blank"} of the University of Marburg.
+This course is in supplement to Upscaling Biodiversity and GeoAI course. The introduction to FORCE will be held on **Wednesday 03.05.2023 at 10:15 am** in in person in the physical classroom (**F 14 | 00A19**)
 {: .notice--info}
 
 
