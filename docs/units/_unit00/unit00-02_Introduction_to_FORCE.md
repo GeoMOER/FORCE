@@ -3,13 +3,13 @@ title: Introduction to FORCE
 toc: true
 header:
   image: '/assets/images/teaser/allbands.png'
-  caption: '[Environmental Informatics Marburg](https://www.uni-marburg.de/en/fb19/disciplines/physisch/environmentalinformatics){:target="_blank"}'
+  caption: '[Netra Bhandari](https://www.uni-marburg.de/en/fb19/disciplines/physisch/environmentalinformatics){:target="_blank"}'
 ---
 
 ## FORCE: Framework for Operational Radiometric Correction for Environmental monitoring
 
 FORCE is an open source software designed to generate analysis ready data from remote sensing imageries. 
-The main page force can be accessed [here](https://force-eo.readthedocs.io/en/latest/index.html).
+The main page for force can be accessed [here](https://force-eo.readthedocs.io/en/latest/index.html).
 
 ## Why FORCE
 
