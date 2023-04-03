@@ -14,7 +14,7 @@ Image: Lisa Bald
 
 To breakdown this complex workflow, we will go by each level and understand different parts of them
 
-#Level 1
+# Level 1
 
 Level 1 deals with input data. The boxes shown with a dotted line indicate the data while solid line indicates the process. At level 2, we get our Analysis Ready Data (ARD).
 The parameter files instruct force what kind of processing needs to be performed.
