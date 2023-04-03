@@ -11,6 +11,14 @@
   bio              : "Philipps-Universität Marburg"
   location         : "Marburg, DE"
   uri              : "https://www.uni-marburg.de/de/fb19/disciplines/physisch/umweltinformatik"  
+- bald:
+  name             : "Lisa bald"
+  avatar           : "/assets/images/authors/bald.jpeg"
+  email            : "Lisa Bald <lisa.bald@geo.uni-marburg.de>"
+  home             : "https://www.uni-marburg.de/de/fb19/disciplines/physisch/umweltinformatik"
+  bio              : "Philipps-Universität Marburg"
+  location         : "Marburg, DE"
+  uri              : "https://www.uni-marburg.de/de/fb19/disciplines/physisch/umweltinformatik"
 - zeuss:
   name             : "Dirk Zeuss"
   avatar           : "/assets/images/authors/zeuss.jpg"

@@ -21,7 +21,7 @@ feature_row_ilos:
 
 {% include feature_row id="feature_row_intro" type="center" %}
 
-FORCE: Framework for Operational Radiometric Correction for Environmental monitoring (https://force-eo.readthedocs.io/en/latest/index.html) is an open source software created by David Frantz. It allows users to download, process and coregister Sentinel-2 data to generate analysis-ready data. FORCE thus serves as a one stop solution for Sentinel-2 data. In this supplementary course, we learn the basics of working with FORCE, command line, docker using Sentinel-2 and Landsat  data to generate spectral indices such as Normalized Difference Vegetation Index (NDVI), Enhanced Vegetation Index (EVI) etc.
+FORCE: [Framework for Operational Radiometric Correction for Environmental monitoring](https://force-eo.readthedocs.io/en/latest/index.html) is an open source software created by David Frantz. It allows users to download, process and coregister Sentinel-2 data to generate analysis-ready data. FORCE thus serves as a one stop solution for Sentinel-2 data. In this supplementary course, we learn the basics of working with FORCE, command line, docker using Sentinel-2 and Landsat  data to generate spectral indices such as Normalized Difference Vegetation Index (NDVI), Enhanced Vegetation Index (EVI) etc.
 
 
 
@@ -37,10 +37,10 @@ At the end of this course you should be able to
 
 # Setting
 
-This course will take place in a hybrid setting (exept for the first session) with a digital classroom and additional students being present in person in the physical classroom (**F 14 | 00A19**).
-Details on this synchronous hybrid classroom format will be provided in the first session, which will take place **in presence only on Wednesday 12.04.2023 at 10:15 am**.
-The link to the digital classroom of the first session is provided in the [Ilias course environment](https://ilias.uni-marburg.de/goto.php?target=crs_2785662&client_id=UNIMR){:target="_blank"}
- (only accessible for members of the course who are logged-in into Ilias). 
+This course is in supplement to Upscaling Biodiversity and GeoAI course (**F 14 | 00A19**).
+#Details on this synchronous hybrid classroom format will be provided in the first session, which will take place **in presence only on Wednesday 12.04.2023 at 10:15 am**.
+#The link to the digital classroom of the first session is provided in the [Ilias course environment](https://ilias.uni-marburg.de/goto.php?target=crs_2785662&client_id=UNIMR){:target="_blank"}
+# (only accessible for members of the course who are logged-in into Ilias). 
 Please also seriously check and follow the [Information on the Coronavirus](https://www.uni-marburg.de/de/universitaet/administration/sicherheit/coronavirus){:target="_blank"} of the University of Marburg.
 {: .notice--info}
 
