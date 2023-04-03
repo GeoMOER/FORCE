@@ -7,6 +7,7 @@ header:
 ---
 
 <img src="force_workflow.png" width="570" height="313" align="centre" vspace="10" hspace="20">
+
 Image: Lisa Bald
 
 # Understanding the levels

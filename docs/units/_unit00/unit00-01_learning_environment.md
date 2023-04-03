@@ -16,6 +16,7 @@ At the end of this unit you should be able to
 * start your FORCE journey
 
 <img src="may-the-force-be-with-you-sticker.jpeg" width="570" height="313" align="centre" vspace="10" hspace="20">
+
 Image : [Redwolf](https://images.app.goo.gl/6qj4SpyMWo8ukU9S8){:target="_blank"}.
 
 ## Comments
