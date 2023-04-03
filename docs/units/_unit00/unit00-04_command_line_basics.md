@@ -26,7 +26,7 @@ cd /home/username/Desktop #example to make desktop as working directory
 cd ~/Desktop #'~' means start from home directory
 ```
 
-To go to home directory , use "cd home
+To go to home directory 
 ```
 cd home
 cd .. #To go one step up the directory
