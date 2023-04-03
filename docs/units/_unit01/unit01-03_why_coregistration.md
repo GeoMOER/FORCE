@@ -2,8 +2,15 @@
 title: Why coregistration?
 toc: true
 header:
-  image: '/assets/images/teaser/Kilikarte_CC_Tanzania_72dpi-1800x1386_7-1.jpg'
-  caption: '[Environmental Informatics Marburg](https://www.uni-marburg.de/en/fb19/disciplines/physisch/environmentalinformatics){:target="_blank"}'
+  image: '/assets/images/teaser/successful_workflow.jpg'
+  caption: '[Rindle](https://images.app.goo.gl/E98WTzaYs5ygL9Gd6){:target="_blank"}'
 ---
 
 
+# Lets talk Sentinel-2 
+
+The European Space Agency launched Sentinel-2 A (2015) and Setinel-2B (2017) as a Multi-Spectral Instrument.  
+
+# Coregistration
+
+<mark>to do add gif of coregistration</mark>
