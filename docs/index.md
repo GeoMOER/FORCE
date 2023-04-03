@@ -37,7 +37,8 @@ At the end of this course you should be able to
 
 # Setting
 
-This course is in supplement to Upscaling Biodiversity and GeoAI course. The introduction to FORCE will be held on **Wednesday 03.05.2023 at 10:15 am** in in person in the physical classroom (**F 14 | 00A19**)
+This course is in supplement to Upscaling Biodiversity and GeoAI course. The introduction to FORCE will be held **in presence only on Wednesday 03.05.2023 at 10:15 am** in the physical classroom (**F 14 | 00A19**).
+Please also seriously check and follow the [Information on the Coronavirus](https://www.uni-marburg.de/de/universitaet/administration/sicherheit/coronavirus){:target="_blank"} of the University of Marburg.
 {: .notice--info}
 
 
