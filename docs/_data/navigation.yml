@@ -2,8 +2,6 @@
 main:
   - title: "Units"
     url: /units.html
-  - title: "FAQ"
-    url: /unit00/unit00-03_faq.html
   - title: "Courses"
     url: https://geomoer.github.io/moer-info-page/ 
   - title: "Lab Home"
@@ -19,8 +17,6 @@ docs:
     children:
       - title: "Units"
         url: /units.html
-      - title: "FAQ"
-        url: /unit00/unit00-03_faq.html
       - title: "Courses"
         url: https://geomoer.github.io/moer-info-page/         
       - title: "Lab Home"

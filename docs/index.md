@@ -1,5 +1,5 @@
 ---
-title: FORCE Framework for Operational Radiometric Correction for Environmental monitoring
+title: FORCE 
 layout: splash
 date: '2023-03-31 13:00:00 +0100'
 header:
@@ -21,7 +21,7 @@ feature_row_ilos:
 
 {% include feature_row id="feature_row_intro" type="center" %}
 
-FORCE: [Framework for Operational Radiometric Correction for Environmental monitoring](https://force-eo.readthedocs.io/en/latest/index.html) is an open source software created by David Frantz. It allows users to download, process and coregister Sentinel-2 data to generate analysis-ready data. FORCE thus serves as a one stop solution for Sentinel-2 data. In this supplementary course, we learn the basics of working with FORCE, command line, docker using Sentinel-2 and Landsat  data to generate spectral indices such as Normalized Difference Vegetation Index (NDVI), Enhanced Vegetation Index (EVI) etc.
+FORCE: [Framework for Operational Radiometric Correction for Environmental monitoring](https://force-eo.readthedocs.io/en/latest/index.html) is an open source software created by David Frantz. It allows users to download, process and coregister Sentinel-2 data to generate analysis-ready data. FORCE thus, serves as a one stop solution for Sentinel-2 data. In this supplementary course, we learn the basics of working with FORCE, command line, docker using Sentinel-2 and Landsat  data to generate spectral indices such as Normalized Difference Vegetation Index (NDVI), Enhanced Vegetation Index (EVI) etc.
 
 
 

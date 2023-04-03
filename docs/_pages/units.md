@@ -2,8 +2,8 @@
 title: Course Units
 id: Units
 header:
-  image: "/assets/images/teaser/Kili_Hemp.jpg"
-  caption: 'Image: [**Andreas Hemp**](https://kili-ses.senckenberg.de/en/publications/literature/){:target="_blank"}'
+  image: "/assets/images/teaser/allbands.png"
+  caption: 'Image: [**Netra Bhandari**]'
 
 permalink: /units.html
 sidebar:
