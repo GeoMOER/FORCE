@@ -2,8 +2,18 @@
 title: Landsat data
 toc: true
 header:
-  image: '/assets/images/teaser/Kilikarte_CC_Tanzania_72dpi-1800x1386_7-1.jpg'
-  caption: '[Environmental Informatics Marburg](https://www.uni-marburg.de/en/fb19/disciplines/physisch/environmentalinformatics){:target="_blank"}'
+  image: '/assets/images/teaser/ndvi.jpg'
+  caption: '[Netra Bhandari](https://www.uni-marburg.de/en/fb19/disciplines/physisch/environmentalinformatics){:target="_blank"}'
 ---
+
+In this unit, we download and process Landsat data. 
+
+Learning objectives
+
+At the end of this unit you should be able to
+
+* download Landsat data using command line 
+* perform Landsat processing to get Level 2 data
+* Using Level 2 data to generate a Base Image
 
 
