@@ -25,7 +25,7 @@ Image: Animation of Sentinel-2 images on Crete. Source - [FORCE](https://force-e
 
 FORCE uses Landsat images as a baseline to fix the geolocation of Sentinel-2 images. The aggregated Landsat time series (i.e. a "base image", check out the next section in this unit), are very robust to average out the error.
 FORCE uses a modfied Landsat Sentinel Registration (LSReg algorithm) to automatically coregister large amounts of Sentinel-2 imageries using the "near infrared multiannual monthly averaged" Landsat base image. 
-This algorithm has been explained in detail by (Ruffin et al 2021)[https://dial.uclouvain.be/pr/boreal/object/boreal%3A269855/datastream/PDF_01/view]{:target="_blank"}.
+This algorithm has been explained in detail by (Ruffin et al 2021)[https://ieeexplore.ieee.org/abstract/document/9057384/authors#authors]{:target="_blank"}.
 
 
  
