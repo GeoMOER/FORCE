@@ -6,8 +6,6 @@ header:
   caption: '[Rindle](https://images.app.goo.gl/E98WTzaYs5ygL9Gd6){:target="_blank"}'
 ---
 
-# Base image
-
 To coregister a Sentinel-2 image with the Landsat images we need a base image. A base image is essentially an all clear sky Landsat near-infrared reflectance images from multiple years for each month.
 So, we get 12 base images, one for each month, stacked as multiple band file (i.e 12 bands). 
 
