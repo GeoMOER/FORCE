@@ -16,3 +16,15 @@ At the end of this unit you should be able to
 * understanding the input and output data
 * what is coregistration and why do we need to coregister Sentinel-2 images
 * what is base image
+
+## Comments
+
+You can leave comments under this Issue if you have questions or remarks about the task/assignment. 
+
+<script src="https://utteranc.es/client.js"
+        repo="GeoMOER/FORCE"
+        issue-term="moer-mpg-FORCE-00-Basic_Installation"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>

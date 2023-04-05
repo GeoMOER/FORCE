@@ -2,10 +2,41 @@
 title: Folder structure
 toc: true
 header:
-  image: '/assets/images/teaser/Kilikarte_CC_Tanzania_72dpi-1800x1386_7-1.jpg'
-  caption: '[Environmental Informatics Marburg](https://www.uni-marburg.de/en/fb19/disciplines/physisch/environmentalinformatics){:target="_blank"}'
+  image: '/assets/images/teaser/electronic_filing_structure.jpg'
+  caption: '[Wilson Alvarez](https://images.app.goo.gl/vmPsXxFTHCXWXLuj8){:target="_blank"}'
 ---
 
+Lets create some folders and subfolders using our virtual machine
+```
+mkdir -p level1/level1-datapool/Landsat
+```
+```
+mkdir -p level1/meta/
+```
+```
+mkdir level2
+```
+```
+mkdir catalog
+```
+```
+mkdir param
+```
+```
+mkdir log
+```
+```
+mkdir misc
+```
+```
+mkdir temp
+```
+```
+mkdir -p level2/base 
+```
+```
+mkdir level3
+```
 
 
 
