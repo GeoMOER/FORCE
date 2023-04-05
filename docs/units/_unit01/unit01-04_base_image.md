@@ -9,7 +9,7 @@ header:
 To coregister a Sentinel-2 image with the Landsat images we need a base image. A base image is essentially an all clear sky Landsat near-infrared reflectance images from multiple years for each month.
 So, we get 12 base images, one for each month, stacked as multiple band file (i.e 12 bands). 
 
-<img src="bi2.png" width="1104" height="359" align="centre" vspace="10" hspace="20" />
+<img src="bi_kili.png" width="1104" height="359" align="centre" vspace="10" hspace="20" />
 
 Image: A base image for Mt.Kilimanjaro and Mt. Meru consisting of stacked images for each month from 2013 to 2021.
 Image by : Netra Bhandari
