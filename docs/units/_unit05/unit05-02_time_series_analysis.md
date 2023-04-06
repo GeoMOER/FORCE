@@ -30,3 +30,4 @@ sudo docker run -v /home/myproject:/opt/data davidfrantz/force force-higher-leve
 
 ```
 sudo docker run -v /home/myproject:/opt/data davidfrantz/force force-mosaic /opt/data/level3/
+```
