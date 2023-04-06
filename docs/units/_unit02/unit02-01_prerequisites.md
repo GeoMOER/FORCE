@@ -15,3 +15,15 @@ In this unit you should be able to
 * Setting up folder structure 
 * Selecting path and row for downloading Landsat data
 * Selecting tile numbers for downloading Sentinel data
+
+## Comments
+
+You can leave comments under this Issue if you have questions or remarks about the task/assignment. 
+
+<script src="https://utteranc.es/client.js"
+        repo="GeoMOER/FORCE"
+        issue-term="moer-mpg-FORCE-00-Basic_Installation"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>

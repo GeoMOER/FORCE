@@ -16,4 +16,15 @@ At the end of this unit you should be able to
 * perform Landsat processing to get Level 2 data
 * Using Level 2 data to generate a Base Image
 
+## Comments
+
+You can leave comments under this Issue if you have questions or remarks about the task/assignment. 
+
+<script src="https://utteranc.es/client.js"
+        repo="GeoMOER/FORCE"
+        issue-term="moer-mpg-FORCE-00-Basic_Installation"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
 
