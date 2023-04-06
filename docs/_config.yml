@@ -159,6 +159,15 @@ defaults:
       sidebar:
         nav: "course_unit" 
   # unit05
+  - scope:
+      path: ""
+      type: unit05
+    values:
+      category: "05 Spectral indices"
+      tags: "Unit 05"
+      layout: single
+      sidebar:
+        nav: "course_unit"
 
 # Plugins
 plugins:

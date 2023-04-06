@@ -9,11 +9,11 @@ header:
 
 Download landsat data using landsatlinks
 
-## --> make an account and request permission to download e.g. get "machine to machine" API
-## create a file with your user credentials
-## a simple .txt file first row username, second row password ### think of special character readability
-## save the study area shapefile in the misc directory
-## we used landsatlinks version 1.0.0 https://github.com/ernstste/landsatlinks
+* make an account and request permission to download e.g. get "machine to machine" API
+* create a file with your user credentials
+* a simple .txt file first row username, second row password ### think of special character readability
+* save the study area shapefile in the misc directory
+* we used landsatlinks version 1.0.0 https://github.com/ernstste/landsatlinks
 
 # Create file with download links for Landsat using landsatlinks:
 
@@ -27,7 +27,7 @@ landsatlinks search /home/myproject/misc/mystudyarea_shapefile.shp /home/myproje
 -q = queue file
 --secret = path to the login credentials (Earth Explorer login)
 
-Reference to the landsatlinks github repository:  https://github.com/ernstste/landsatlinks
+Reference to the landsatlinks [github repository](https://github.com/ernstste/landsatlinks){:target="_blank"}
 
 # In the misc folder access the download URLS written as a .txt file
 
