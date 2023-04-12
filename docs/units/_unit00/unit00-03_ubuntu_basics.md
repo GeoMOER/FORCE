@@ -17,4 +17,9 @@ FORCE was developed using Ubuntu and thus all the code needed to run FORCE shoul
 ## Setting up a virtual machine
 <mark>TO DO </mark>
 
+* Open Windows Powershell 
+```
+wsl --install -d ubuntu
+```
+
 
