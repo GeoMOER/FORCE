@@ -7,6 +7,7 @@ header:
 ---
 
 In this unit, we download and process Landsat data. 
+<!--more-->
 
 Learning objectives
 

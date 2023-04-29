@@ -7,6 +7,7 @@ header:
 ---
 
 We start now our FORCE journey. But first we need to do take care of some prerequisites like setting up folder structure and defining the study area parameters.
+<!--more-->
 
 # Learning objectives
 

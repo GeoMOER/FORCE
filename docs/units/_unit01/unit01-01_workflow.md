@@ -7,7 +7,8 @@ header:
 ---
 
 
-In this unit, you will be introduced to the workflow we will use to download, process and coregister Sentinel-2 data. 
+In this unit, you will be introduced to the workflow we will use to download, process and coregister Sentinel-2 data.
+<!--more-->
 
 # Learning objectives
 At the end of this unit you should be able to 

@@ -7,6 +7,7 @@ header:
 ---
 
 In this unit, we download and process Sentinel-2 data. 
+<!--more-->
 
 # Learning objectives
 

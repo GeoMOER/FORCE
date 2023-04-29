@@ -6,7 +6,8 @@ header:
   caption: '[Netra Bhandari](https://www.uni-marburg.de/en/fb19/disciplines/physisch/environmentalinformatics){:target="_blank"}'
 ---
 
-We now reach the last part of FORCE, using Analysis Ready Data to generate spectral indices
+We now reach the last part of FORCE, using Analysis Ready Data to generate spectral indices.
+<!--more-->
 
 # Learning objectives
 
