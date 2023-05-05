@@ -6,19 +6,19 @@ header:
   caption: '[Netra Bhandari](https://www.uni-marburg.de/en/fb19/disciplines/physisch/environmentalinformatics){:target="_blank"}'
 ---
 
-Try the following snippets to get acquainted with command line basics 
+Try the following snippets to get acquainted with command line basics.
 
 # Getting the command line 
-* In your virtual machine search for "Terminal"
+* In your virtual machine, search for "Terminal"
 * A quick way is **Ctrl-Alt-T**
 
 # Understanding locations 
-To get the present working directory type "pwd". You will probably be getting a result like /home/your_username
+To get the present working directory, type "pwd". You will probably be getting a result like /home/your_username
 
 ```
 pwd
 ```
-To change the working directory type. Use forward slash.
+To change the working directory, type the following. Use forward slash.
 
 ```
 cd /new_location_name
@@ -30,9 +30,9 @@ To go to home directory
 ```
 cd home
 cd .. #To go one step up the directory
-cd ../../../ #To go multiple step up (shown here is three steps up)
+cd ../../../ #To go multiple steps up (shown here is three steps up)
 ```
-Creating a new folder
+Create a new folder
 
 ```
 mkdir /Desktop/FORCE #mkdir stands for make directory
@@ -60,7 +60,7 @@ apt (command)
 apt update
 ```
 
-Commands via sudo (superuser do). sudo allows you to run a command as root . This command will ask you for a password.
+Commands via sudo (superuser do). sudo allows you to run a command as root. This command will ask you for the password.
 
 ```
 apt install sudo # use if sudo is not available

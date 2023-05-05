@@ -6,12 +6,12 @@ header:
   caption: '[Netra Bhandari](https://www.uni-marburg.de/en/fb19/disciplines/physisch/environmentalinformatics){:target="_blank"}'
 ---
 
-In this unit, you will be introduced to the workings of FORCE, its basic installation. You will also be introduced to the basics of docker, ubuntu and how to write commands in a command line.
+In this unit, you will be introduced to the workings of FORCE and its basic installation. You will also be introduced to the basics of docker, Ubuntu and how to write commands in a command line.
 <!--more-->
 
 ## Learning objectives
 At the end of this unit you should be able to
-* be able to run docker
+* run Docker
 * know the basics of command line
 * start your FORCE journey
 
