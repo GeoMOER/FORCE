@@ -8,13 +8,13 @@ header:
 
 In this unit, we download and process Landsat data. 
 
-Learning objectives
+# Learning objectives
 
 At the end of this unit you should be able to
 
 * download Landsat data using command line 
 * perform Landsat processing to get Level 2 data
-* Using Level 2 data to generate a Base Image
+* using Level 2 data to generate a base image
 
 ## Comments
 

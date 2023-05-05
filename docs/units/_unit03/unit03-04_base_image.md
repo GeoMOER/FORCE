@@ -6,7 +6,7 @@ header:
   caption: '[Netra Bhandari](https://www.uni-marburg.de/en/fb19/disciplines/physisch/environmentalinformatics){:target="_blank"}'
 ---
 
-To create base image we need to first 
+To create base image, we need to first 
 
 # Download parameter file
 
@@ -22,7 +22,7 @@ sudo docker run -v /home/myproject:/opt/data davidfrantz/force force-tile-extent
 ```
 
 # Base image (level 3)
-Add additional tile extent in the params file so all folders are read in 2 extra in each direction
+Add additional tile extent in the params file, so all folders are read in 2 extra in each direction
 
 ```
 sudo docker run -v /home/myproject:/opt/data davidfrantz/force force-higher-level /opt/data/param/ls_base.prm 
