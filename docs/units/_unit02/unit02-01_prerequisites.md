@@ -12,9 +12,9 @@ We start now our FORCE journey. But first we need to do take care of some prereq
 
 In this unit you should be able to
 
-* Setting up folder structure 
-* Selecting path and row for downloading Landsat data
-* Selecting tile numbers for downloading Sentinel data
+* Set up folder structure 
+* Select path and row for downloading Landsat data
+* Select tile numbers for downloading Sentinel data
 
 ## Comments
 
