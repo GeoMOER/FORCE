@@ -13,9 +13,9 @@ In this unit, you will be introduced to the workflow we will use to download, pr
 At the end of this unit you should be able to 
 
 * differentiate between level 1, level 2 and level 3 processing
-* understanding the input and output data
-* what is coregistration and why do we need to coregister Sentinel-2 images
-* what is base image
+* understand the input and output data
+* know what coregistration is and why we need to coregister Sentinel-2 images
+* know what a base image is
 
 ## Comments
 

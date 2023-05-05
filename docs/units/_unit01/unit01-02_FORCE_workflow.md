@@ -12,16 +12,16 @@ Image: Lisa Bald
 
 # Understanding the levels
 
-To breakdown this complex workflow, we will go by each level and understand different parts of them
+To breakdown this complex workflow, we will go through each level and understand different parts of them.
 
 # Level 1
 
 Level 1 deals with input data. The boxes shown with a dotted line indicate the data while solid line indicates the process. At level 2, we get our Analysis Ready Data (ARD).
-The parameter files instruct force what kind of processing needs to be performed.
+The parameter files instruct FORCE what kind of processing needs to be performed.
 
 # Level 2 
 
-In level 2, we are using FORCE to process our downloaded input data to be fed in level 3.
+In level 2, we are using FORCE to process our downloaded input data to be fed into level 3.
 
 # Level 3
 

@@ -7,15 +7,15 @@ header:
 ---
 
 
-# Lets talk Sentinel-2 
+# Let's talk about Sentinel-2
 
-The European Space Agency launched Sentinel-2 A (2015) and Setinel-2B (2017) as a Multi-Spectral Instrument. This pair of polar-orbiting satellite moves around earth every 5 days and monitors land surface conditions.
+The European Space Agency launched Sentinel-2A (2015) and Sentinel-2B (2017) as a Multi-Spectral Instrument. This pair of polar-orbiting satellites moves around earth every 5 days and monitors land surface conditions.
 With a fine resolution of 10m, Sentinel-2 satellites are popular for its application in land monitoring, emergency management, security, climate change, and marine environmental monitoring.     
 
 # But there's a small problem
 
-The images obtained from Sentinel-2 before the usage of Ground Reference Image has a geolocation uncertainity of 12m. 
-This uncertainity is slightly more than a pixel (10m). When performing a time series analysis, such a shift of 12m can lead to unreliable results.
+The images obtained from Sentinel-2 before the usage of Ground Reference Image has a geolocation uncertainty of 12m. 
+This uncertainty is slightly more than a pixel (10m). When performing a time series analysis, such a shift of 12m can lead to unreliable results.
 
 <img src="https://force-eo.readthedocs.io/en/latest/_images/tutorial-coreg-animation.gif" width="1104" height="359" align="centre" vspace="10" hspace="20" />
 
@@ -23,9 +23,9 @@ Image: Animation of Sentinel-2 images on Crete. Source - [FORCE](https://force-e
 
 # FORCE provides a solution to this problem - Coregistration
 
-FORCE uses Landsat images as a baseline to fix the geolocation of Sentinel-2 images. The aggregated Landsat time series (i.e. a "base image", check out the next section in this unit), are very robust to average out the error.
-FORCE uses a modfied Landsat Sentinel Registration (LSReg algorithm) to automatically coregister large amounts of Sentinel-2 imageries using the "near infrared multiannual monthly averaged" Landsat base image. 
-This algorithm has been explained in detail by [Ruffin et al 2021](https://ieeexplore.ieee.org/abstract/document/9057384/authors#authors){:target="_blank"}.
+FORCE uses Landsat images as a baseline to fix the geolocation of Sentinel-2 images. The aggregated Landsat time series (i.e. a "base image", check out the next section in this unit) are very robust to average out the error.
+FORCE uses a modified Landsat Sentinel Registration (LSReg algorithm) to automatically coregister large amounts of Sentinel-2 imagery using the "near infrared multiannual monthly averaged" Landsat base image. 
+This algorithm was explained in detail by [Ruffin et al 2021](https://ieeexplore.ieee.org/abstract/document/9057384){:target="_blank"}.
 
 
  
